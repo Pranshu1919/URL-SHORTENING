@@ -7,7 +7,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Govind Kumar",
+  "author": "Pranshu Kumar",
   "license": "ISC",
   "description": "",
   "dependencies": {
